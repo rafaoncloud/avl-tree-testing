@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf4634dc-af70-42df-9635-73eec1198696" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/avl_tree$AVLTree.ic" NAME="AVLTree Coverage Results" MODIFIED="1558432983776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.main.java.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="91" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FavoritesManager">
+    <favorites_list name="avl-tree" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.6013712">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/main/java/AVLTree.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="520">
+                  <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#220#221#0" expanded="true" />
+                    <element signature="e#266#267#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/AVLTree.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="134" column="35" selection-start-line="134" selection-start-column="35" selection-end-line="134" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#272#273#0" expanded="true" />
+                    <element signature="e#307#308#0" expanded="true" />
+                    <element signature="e#475#476#0" expanded="true" />
+                    <element signature="e#516#517#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>search</find>
+      <find>preorder</find>
+      <find>print2D</find>
+      <find>insert</find>
+      <find>height</find>
+      <find>preo</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/algorithm/AVLTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/main/AVLTreeTest.java" />
+        <option value="$PROJECT_DIR$/test/main/AVLTreeTest.java" />
+        <option value="$PROJECT_DIR$/test/main/java/AVLTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AVLTreeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AVLNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AVLTree.java" />
+        <option value="$PROJECT_DIR$/src/test/main/java/AVLTree.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="avl-tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avl-tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avl-tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avl-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avl-tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avl-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="control-flow-testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avl-tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avl-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avl-tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avl-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avl-tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avl-tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558435366876" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.main.java" />
+      <recent name="main.java" />
+      <recent name="test.main" />
+      <recent name="com.algorithm" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AVLTree">
+    <configuration name="AVLTreeTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.AVLTreeTest" />
+      <module name="avl-tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="false">
+        <include_pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="true" />
+        </include_pattern>
+        <include_pattern>
+          <option name="PATTERN" value="test.main.java.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="true" />
+        </include_pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTree" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="avl-tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true">
+        <include_pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="true" />
+        </include_pattern>
+        <include_pattern>
+          <option name="PATTERN" value="test.main.java.*" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="true" />
+        </include_pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.main.java" />
+      <option name="MAIN_CLASS_NAME" value="test.main.java.AVLTree" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTreeTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="avl-tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test.main.java.AVLTreeTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTree.countNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl-tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="test.main.java" />
+      <option name="MAIN_CLASS_NAME" value="test.main.java.AVLTree" />
+      <option name="METHOD_NAME" value="countNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTree.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl-tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.main.java" />
+      <option name="MAIN_CLASS_NAME" value="test.main.java.AVLTree" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTree.searchP3SmallerThanMainNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl-tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.main.java" />
+      <option name="MAIN_CLASS_NAME" value="test.main.java.AVLTree" />
+      <option name="METHOD_NAME" value="searchP3SmallerThanMainNode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTree.searchP3TreeIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avl-tree" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.main.java" />
+      <option name="MAIN_CLASS_NAME" value="test.main.java.AVLTree" />
+      <option name="METHOD_NAME" value="searchP3TreeIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AVLTreeTest (2)" />
+      <item itemvalue="JUnit.AVLTree" />
+      <item itemvalue="JUnit.AVLTreeTest" />
+      <item itemvalue="JUnit.AVLTree.countNode" />
+      <item itemvalue="JUnit.AVLTree.insert" />
+      <item itemvalue="JUnit.AVLTree.searchP3TreeIsEmpty" />
+      <item itemvalue="JUnit.AVLTree.searchP3SmallerThanMainNode" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AVLTree.searchP3SmallerThanMainNode" />
+        <item itemvalue="JUnit.AVLTree.searchP3TreeIsEmpty" />
+        <item itemvalue="JUnit.AVLTree.insert" />
+        <item itemvalue="Application.AVLTreeTest (2)" />
+        <item itemvalue="JUnit.AVLTree.countNode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf4634dc-af70-42df-9635-73eec1198696" name="Default Changelist" comment="" />
+      <created>1556535820795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556535820795</updated>
+      <workItem from="1556535827962" duration="156000" />
+      <workItem from="1556536041861" duration="721000" />
+      <workItem from="1556536850462" duration="4946000" />
+      <workItem from="1556576873672" duration="2113000" />
+      <workItem from="1556875749873" duration="489000" />
+      <workItem from="1556889248495" duration="796000" />
+      <workItem from="1556993125753" duration="539000" />
+      <workItem from="1557061274219" duration="3548000" />
+      <workItem from="1557069122856" duration="1866000" />
+      <workItem from="1557232815647" duration="1060000" />
+      <workItem from="1557737967176" duration="20000" />
+      <workItem from="1557738055451" duration="217000" />
+      <workItem from="1557738365741" duration="5924000" />
+      <workItem from="1558037166697" duration="11423000" />
+      <workItem from="1558212599379" duration="94000" />
+      <workItem from="1558348851532" duration="9344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AVLTree - 2019.05.21 at 11h 02m 53s.xml">
+      <configuration name="AVLTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree - 2019.05.21 at 11h 03m 07s.xml">
+      <configuration name="AVLTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree - 2019.05.21 at 11h 04m 25s.xml">
+      <configuration name="AVLTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree_searchP3TreeIsEmpty - 2019.05.21 at 11h 10m 43s.xml">
+      <configuration name="AVLTree.searchP3TreeIsEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree_searchP3TreeIsEmpty - 2019.05.21 at 11h 10m 51s.xml">
+      <configuration name="AVLTree.searchP3TreeIsEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree_searchP3TreeIsEmpty - 2019.05.21 at 11h 11m 03s.xml">
+      <configuration name="AVLTree.searchP3TreeIsEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree_searchP3SmallerThanMainNode - 2019.05.21 at 11h 17m 05s.xml">
+      <configuration name="AVLTree.searchP3SmallerThanMainNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree_searchP3SmallerThanMainNode - 2019.05.21 at 11h 18m 20s.xml">
+      <configuration name="AVLTree.searchP3SmallerThanMainNode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree - 2019.05.21 at 11h 20m 58s.xml">
+      <configuration name="AVLTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AVLTree - 2019.05.21 at 11h 25m 33s.xml">
+      <configuration name="AVLTree" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43256000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="777" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5751825" visible="true" weight="0.17528272" />
+      <window_info id="Structure" order="1" sideWeight="0.42481753" side_tool="true" weight="0.25040388" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4878837" visible="true" weight="0.3649635" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48626816" weight="0.46423358" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49919224" weight="0.329927" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51373184" side_tool="true" weight="0.46423358" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4983845" weight="0.32846716" />
+      <window_info anchor="bottom" id="Extract Method" order="13" weight="0.329927" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.26655897" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24959612" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.26898223" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="CodeMR" order="9" />
+      <window_info anchor="right" id="CodeMR Metrics" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/AVLTreeTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/main/AVLTreeTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/main/AVLTreeTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/main/java/AVLTree.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="1256" selection-start-line="1256" selection-end-line="1256" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AVLTreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.0-M1/junit-platform-commons-1.5.0-M1.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="361" selection-start-line="361" selection-end-line="361" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="134" column="35" selection-start-line="134" selection-start-column="35" selection-end-line="134" selection-end-column="35" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AVLNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/main/java/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="173" column="5" selection-start-line="173" selection-start-column="5" selection-end-line="173" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
